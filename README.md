@@ -1,4 +1,4 @@
 # vaibhav-pandey-_demo
 this is my first git repository.
-Auther -  Vaibhav Pandy
 <br>
+Auther -  Vaibhav Pandey
